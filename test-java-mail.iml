@@ -21,5 +21,6 @@
     <orderEntry type="library" name="Maven: net.markenwerk:commons-nulls:1.0.1" level="project" />
     <orderEntry type="library" name="Maven: com.sun.mail:javax.mail:1.5.5" level="project" />
     <orderEntry type="library" name="Maven: javax.activation:activation:1.1" level="project" />
+    <orderEntry type="library" scope="TEST" name="Maven: junit:junit:4.8.1" level="project" />
   </component>
 </module>

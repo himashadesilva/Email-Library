@@ -2,8 +2,6 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/simple-java-mail.iml" filepath="$PROJECT_DIR$/simple-java-mail.iml" />
-      <module fileurl="file://$PROJECT_DIR$/test-java-mail.iml" filepath="$PROJECT_DIR$/test-java-mail.iml" />
       <module fileurl="file://$PROJECT_DIR$/test-java-mail.iml" filepath="$PROJECT_DIR$/test-java-mail.iml" />
     </modules>
   </component>
