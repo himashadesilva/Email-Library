@@ -1,0 +1,6 @@
+org\testmail\email\EmailUtils$Property.class
+org\testmail\email\Email.class
+org\testmail\email\EmailBuilder.class
+org\testmail\email\Recipient.class
+org\testmail\email\EqualsHelper.class
+org\testmail\email\EmailUtils.class
